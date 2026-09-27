@@ -1,0 +1,24 @@
+{
+  "name": "newbackend",
+  "version": "0.1.0",
+  "description": "Scaffolder for an Express + TypeScript + Prisma 7 + PostgreSQL backend foundation",
+  "type": "module",
+  "bin": {
+    "newbackend": "./bin/newbackend.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "keywords": [
+    "backend",
+    "express",
+    "typescript",
+    "prisma",
+    "scaffolder",
+    "cli"
+  ],
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}
